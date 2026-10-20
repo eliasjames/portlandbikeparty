@@ -1,0 +1,31 @@
+{
+  "name": "portlandbikeparty",
+  "version": "1.0.0",
+  "description": "Public website for Portland Bike Party — a monthly group ride in Portland, ME",
+  "main": "home.html",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasjames/portlandbikeparty.git"
+  },
+  "keywords": [
+    "bike",
+    "cycling",
+    "portland",
+    "maine",
+    "community"
+  ],
+  "author": "Portland Bike Party <bikepartyportlandme@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eliasjames/portlandbikeparty/issues"
+  },
+  "homepage": "https://github.com/eliasjames/portlandbikeparty#readme",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
